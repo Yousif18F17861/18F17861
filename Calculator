@@ -1,3 +1,4 @@
 int y , f , n , d
 read n,f
+y=n+f;
 print y 
