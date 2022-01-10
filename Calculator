@@ -1,0 +1,3 @@
+int y , f , n , d
+read n,f
+print y 
